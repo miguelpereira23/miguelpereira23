@@ -31,6 +31,6 @@ Este é o espaço onde passo a maior parte do tempo onde a imaginação e a cria
   
   <br>
   
-[![Kelly Stats](https://github-readme-stats.vercel.app/api?username=Kelly-costa)](https://github.com/anuraghazra/github-readme-stats)
+[![Miguel Stats](https://github-readme-stats.vercel.app/api?username=miguelpereira23)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kelly-costa)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelpereira23)](https://github.com/anuraghazra/github-readme-stats)
